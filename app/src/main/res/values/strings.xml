@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">TemanTani</string>
+    <string name="title_app">Teman Tani</string>
+
+
+    <!--  GetStarted string  -->
+    <string name="tile_started">Welcome to TEMAN TANI</string>
+    <string name="desc_started">"can assist all farmers!"</string>
+    <string name="button_started">Get Started</string>
+
+    <!--  Welcome string  -->
+    <string name="title_welcome">Registration</string>
+    <string name="desc_welcome">Registrasi Account anda</string>
+    <string name="button_signup">Sign Up</string>
+    <string name="button_signin">Sign In</string>
+
+
+    <!--  Registrasi string  -->
+    <string name="title_registrasi">Enter your data !</string>
+    <string name="label_name">Name</string>
+    <string name="input_name">Your Name</string>
+    <string name="label_email">Email</string>
+    <string name="input_email">Your Email</string>
+    <string name="label_password">Password</string>
+    <string name="input_password">Your Password</string>
+    <string name="button_register">Register</string>
+
+    <!--  Login string  -->
+    <string name="title_login">Teman Tani</string>
+    <string name="desc_login">Enter your Email dan Password</string>
+    <string name="button_login">Login</string>
+
 </resources>

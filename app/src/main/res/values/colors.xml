@@ -2,4 +2,14 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="satu">#E1FCF9</color>
+    <color name="dua">#AFF5ED</color>
+    <color name="tiga">#70EEDF</color>
+    <color name="empat">#30E5D0</color>
+    <color name="lima">#18B5A3</color>
+    <color name="enam">#008575</color>
+    <color name="tujuh">#07695D</color>
+    <color name="delapan">#0E4D44</color>
+    <color name="error">#FA1C1C</color>
+    <color name="accent_color">#853FF9</color>
 </resources>
