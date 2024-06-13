@@ -2,6 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="white_dark">#FAFAFA</color>
+    <color name="grey">#808080</color>
+    <color name="grey_white">#CBD1D1D1</color>
     <color name="satu">#E1FCF9</color>
     <color name="dua">#AFF5ED</color>
     <color name="tiga">#70EEDF</color>

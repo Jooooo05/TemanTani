@@ -15,7 +15,7 @@
         android:layout_marginTop="64dp"
         android:textSize="26sp"
         android:textStyle="bold"
-        android:text="@string/title_app"
+        android:text="@string/welcome_to_teman_tani"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
@@ -29,32 +29,35 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/titleWelcome"
-        app:srcCompat="@drawable/welcome" />
+        app:srcCompat="@drawable/logo_teman_tani2" />
 
     <Button
-        android:id="@+id/btnSignUpWelcome"
-        android:layout_width="200dp"
+        android:id="@+id/btnSignInWelcome"
+        android:layout_width="350dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="88dp"
-        android:background="@drawable/button"
-        android:text="@string/button_signup"
-        android:textColor="@color/white"
+        android:layout_marginTop="84dp"
+        android:background="@drawable/button_border"
+        android:text="@string/button_login"
+        android:textColor="@color/enam"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView2" />
 
     <Button
-        android:id="@+id/btnSignInWelcome"
-        android:layout_width="200dp"
+        android:id="@+id/btnSignUpWelcome"
+        android:layout_width="350dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="24dp"
         android:background="@drawable/button"
+        android:text="@string/button_register"
         android:textColor="@color/white"
         android:textStyle="bold"
-        android:text="@string/button_signin"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/btnSignUpWelcome" />
+        app:layout_constraintTop_toBottomOf="@+id/btnSignInWelcome" />
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>

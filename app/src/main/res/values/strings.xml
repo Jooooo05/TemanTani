@@ -10,17 +10,16 @@
 
     <!--  Welcome string  -->
     <string name="title_welcome">Registration</string>
+    <string name="welcome_to_teman_tani">Welcom to Teman Tani</string>
     <string name="desc_welcome">Registrasi Account anda</string>
-    <string name="button_signup">Sign Up</string>
-    <string name="button_signin">Sign In</string>
 
 
     <!--  Registrasi string  -->
-    <string name="title_registrasi">Enter your data !</string>
+    <string name="title_registrasi">Sign Up to Teman Tani!</string>
     <string name="label_name">Name</string>
-    <string name="input_name">Your Name</string>
+    <string name="input_name">Your name</string>
     <string name="label_email">Email</string>
-    <string name="input_email">Your Email</string>
+    <string name="input_email">Your email</string>
     <string name="label_password">Password</string>
     <string name="input_password">Your Password</string>
     <string name="button_register">Register</string>
@@ -29,5 +28,25 @@
     <string name="title_login">Teman Tani</string>
     <string name="desc_login">Enter your Email dan Password</string>
     <string name="button_login">Login</string>
+    <string name="password">...</string>
+    <string name="addres">Addres</string>
+    <string name="cuaca">Cuaca</string>
+    <string name="detect">Detect the Disease</string>
+    <string name="calculate">Calculate the Feltilizer</string>
+    <string name="open_gallery">Open Gallery</string>
+    <string name="analyze">Analyze</string>
+    <string name="article">Article</string>
+    <!--  Dashboard string  -->
+
+
+    <!-- analyze -->
+    <string name="empty_image_warning">Ups! Kamu belum memilih gambar nih! Pilih dulu yaa!!.</string>
+    <string name="image_classifier_failed">Ups! Gagal memuat pengklasifikasi gambar</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="desc_calculate">How Much Land Do You Want to Llant The Rice?</string>
+    <string name="calculate_btn">Calculate</string>
+    <string name="value_calculate">In the m^2</string>
+    <string name="desc_result_calculate">This is a suggestion for the number of seeds that should be planted</string>
+
 
 </resources>

@@ -6,6 +6,7 @@ import android.os.Bundle
 import com.jonatan.temantani.R
 import com.jonatan.temantani.databinding.ActivityWelcomeBinding
 import com.jonatan.temantani.view.login.LoginActivity
+import com.jonatan.temantani.view.registrasi.RegistrasiActivity
 
 class WelcomeActivity : AppCompatActivity() {
 
@@ -20,7 +21,8 @@ class WelcomeActivity : AppCompatActivity() {
             startActivity(intent)
         }
         binding.btnSignUpWelcome.setOnClickListener(){
-//            val intent = Intent(this, )
+            val intent = Intent(this, RegistrasiActivity::class.java)
+            startActivity(intent)
         }
     }
 }
