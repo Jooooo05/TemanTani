@@ -65,4 +65,16 @@ dependencies {
     implementation ("com.github.bumptech.glide:glide:4.16.0")
     implementation ("androidx.lifecycle:lifecycle-runtime-ktx:2.7.0")
     implementation("org.tensorflow:tensorflow-lite:2.7.0")
+    implementation ("org.tensorflow:tensorflow-lite:2.3.0")
+    implementation ("org.tensorflow:tensorflow-lite-support:0.1.0")
+
+    var versiRet = "2.9.0"
+    implementation ("com.squareup.retrofit2:retrofit:$versiRet")
+    implementation ("com.squareup.retrofit2:converter-gson:$versiRet")
+
+    var versiOkhttp = "4.9.1"
+    implementation ("com.squareup.okhttp3:okhttp:$versiOkhttp")
+    implementation ("com.squareup.okhttp3:logging-interceptor:$versiOkhttp")
+
+    implementation ("com.google.code.gson:gson:2.10")
 }
