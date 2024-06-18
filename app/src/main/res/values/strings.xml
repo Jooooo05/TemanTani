@@ -43,10 +43,17 @@
     <string name="empty_image_warning">Ups! Kamu belum memilih gambar nih! Pilih dulu yaa!!.</string>
     <string name="image_classifier_failed">Ups! Gagal memuat pengklasifikasi gambar</string>
     <string name="result">Hasil Analisis</string>
-    <string name="desc_calculate">How Much Land Do You Want to Llant The Rice?</string>
+    <string name="desc_calculate">How Much Land Do You Want to Plant The Rice?</string>
     <string name="calculate_btn">Calculate</string>
     <string name="value_calculate">In the m^2</string>
     <string name="desc_result_calculate">This is a suggestion for the number of seeds that should be planted</string>
 
-
+    <!-- history -->
+    <string name="no_history">No history</string>
+    <string name="history_title">History</string>
+    <string name="save_history">Successfully save history</string>
+    <string name="delete_history">Successfully delete history</string>
+    <string name="error_delete_history">Failed to delete history</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
 </resources>
